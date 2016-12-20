@@ -29,4 +29,4 @@ class Hamming
 end
 module BookKeeping
     VERSION = 3
-    end
+end
